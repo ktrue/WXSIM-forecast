@@ -1,0 +1,48 @@
+WXSIM text forecast for Saratoga, initialized at  4:00 PM May 3, 2019
+_______________________________________________________________________________
+
+Tonight: Clear in the evening, becoming mostly clear after midnight. Low 45.
+Wind west near calm.
+
+Saturday: Partly to mostly sunny. High 79. UV index up to 9. Wind west near calm
+in the morning, becoming 6 mph, gusting to 15 mph, in the afternoon.
+
+Saturday night: Mostly clear in the evening, becoming partly cloudy after
+midnight. Low 47. Wind west around 2 mph in the evening, becoming
+south-southwest after midnight.
+
+Sunday: Partly cloudy in the morning, becoming mostly cloudy in the afternoon. A
+slight chance of rain in the afternoon. High 74. UV index up to 8. Wind
+west-southwest around 3 mph in the morning, becoming 7 mph, gusting to 16 mph,
+in the afternoon. Chance of precipitation less than 20 percent. Precipitation
+mostly less than a tenth of an inch.
+
+Sunday night: Mostly cloudy to cloudy in the evening, becoming cloudy after
+midnight. Patchy light fog after midnight. A slight chance of rain in the
+evening, then a chance of rain after midnight. Low 53. Wind west-southwest
+around 2 mph. Chance of precipitation 40 percent. Precipitation mostly less than
+a tenth of an inch.
+
+Monday: Mostly cloudy in the morning, becoming mostly sunny in the afternoon.
+Patchy light fog in the morning. High 73. UV index up to 9. Wind west-southwest
+around 2 mph in the morning, becoming 6 mph in the afternoon.
+
+Monday night: Fair in the evening, becoming mostly clear after midnight. Low 47.
+Wind west-southwest around 2 mph in the evening, becoming south-southeast after
+midnight.
+
+Tuesday: Sunny. High 77. UV index up to 10. Wind southwest around 2 mph in the
+morning, becoming 7 mph, gusting to 16 mph, in the afternoon.
+
+Tuesday night: Clear in the evening, becoming mostly clear after midnight. Low
+47. Wind southwest around 2 mph.
+
+Wednesday: Sunny. High 79. UV index up to 10. Wind southwest around 2 mph in the
+morning, becoming 6 mph, gusting to 15 mph, in the afternoon.
+
+Wednesday night: Mostly clear in the evening, becoming fair after midnight. A
+slight chance of rain after midnight. Low 48. Wind west-southwest around 2 mph.
+Chance of precipitation less than 20 percent. Precipitation mostly less than a
+tenth of an inch.
+
+* THIS FORECAST WAS MADE IN AUTOMATED MODE AND MAY BE LESS ACCURATE THAN OTHERWISE *

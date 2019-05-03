@@ -1,0 +1,5 @@
+# Minimal -en translation.  Need at least one langlookup entry to allow translation to happen
+#
+lang|kph|km/h|
+langlookup|High:|High:|
+#
